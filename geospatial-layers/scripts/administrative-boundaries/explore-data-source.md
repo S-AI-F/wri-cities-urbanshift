@@ -1,7 +1,7 @@
 UrbanShift - Administrative boundaries
 ================
 Saif Shabou
-13/7/2021
+21 July 2021
 
 -   [geoBoundaries database](#geoboundaries-database)
     -   [Description](#description)
