@@ -1,7 +1,7 @@
 ---
 title: "UrbanShift - Administrative boundaries"
 author: "Saif Shabou"
-date: "13/7/2021"
+date: "`r format (Sys.time(), '%d %B %Y')`"
 output: 
   github_document:
     toc: true
@@ -295,7 +295,5 @@ geoboundary_geo_map_AdmLevel = geoboundary_geo_ADM_plot + geoboundary_geo_ADM2_p
 
 geoboundary_geo_map_AdmLevel
 ```
-
-
 
 
